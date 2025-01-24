@@ -1,0 +1,88 @@
+body {
+    font-family: Hiragino Sans, Meiryo, sans-serif;
+    color: #333;
+    line-height: 1.8;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #004AAD;
+}
+
+.navbar-brand,
+.nav-link {
+    color: white;
+}
+
+/* Header Section */
+.header-section {
+    position: relative;
+    background-image: url('images/american-public-power-association-513dBrMJ_5w-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 8rem 1rem;
+}
+
+.header-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* Section */
+.section {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.section h2 {
+    border-bottom: 2px solid #004AAD;
+    padding-bottom: 0.5rem;
+    color: #004AAD;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+
+.section h3 {
+    font-size: 1.5rem;
+    margin-top: 2.0rem;
+    margin-bottom: 1.0rem;
+}
+
+/* Member Section */
+.member-img {
+    max-width: 150px;
+    margin: 0 auto 1rem;
+}
+
+.member-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.member-card .member-title {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.member-card h3 {
+    margin-bottom: 1rem;
+}
+
+.member-card p {
+    text-align: left;
+}
+
+/* Footer */
+footer {
+    background-color: #004AAD;
+    color: white;
+    text-align: center;
+    margin-top: 4rem;
+    padding: 1.5rem 0;
+}
+
+footer p {
+    margin: 0;
+}
